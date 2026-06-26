@@ -2,8 +2,10 @@
 
 ## Supported versions
 
-Charmed HPC is a collection of multiple, individual projects that each have an actively supported version.
-Read the `SECURITY.md` file in each project repository for more information on how report a vulnerability for that
+The Charmed HPC project is a collection of multiple, individual git repositories that each have
+an actively supported version.
+
+Read the SECURITY.md file in each project repository for more information on how report a vulnerability for that
 particular project. The Charmed HPC core development team will release security updates for the affected
 projects after vulnerabilities have been identified and fixed.
 
