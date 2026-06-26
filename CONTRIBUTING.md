@@ -142,7 +142,7 @@ CONTRIBUTING.md within the repository of interest.
 
 To have your Python code contributions accepted into Charmed HPC, you must:
 
-* Follow to the Python code style guidelines outlined in [Python Enhancement Proposal 8](https://pep8.org/).
+* Follow the Python code style guidelines outlined in [Python Enhancement Proposal 8](https://pep8.org/).
 
 * Have all classes, functions, and methods include a docstring that documents their functionality.
   * *Docstrings must follow the
