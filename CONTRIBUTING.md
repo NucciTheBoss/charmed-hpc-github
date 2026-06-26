@@ -50,7 +50,7 @@ submit a new issue or browse through previous issues.
   that violate this rule.
 
 * If you are unsure which repository's issue tracker an issue should be raised in, please reach out to the
-team on [Matrix](https://matrix.to/#/#hpc:ubuntu.com) or on the [Ubuntu Discourse](https://discourse.ubuntu.com/c/project/hpc/151) to ask for help.
+team on Matrix or on the Ubuntu Discourse to ask for help.
 
 The Charmed HPC project's issue trackers use different labels to help organize and identify issues.
 Here is a list of some of the labels the project uses, and how the maintainers use them:
