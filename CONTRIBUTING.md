@@ -144,7 +144,7 @@ To have your Python code contributions accepted into Charmed HPC, you must:
 
 * Follow the Python code style guidelines outlined in [Python Enhancement Proposal 8](https://pep8.org/).
 
-* Have all classes, functions, and methods include a docstring that documents their functionality.
+* All classes, functions, and methods include a docstring that documents their functionality.
   * *Docstrings must follow the
   [Google docstring format](https://github.com/google/styleguide/blob/gh-pages/pyguide.md#38-comments-and-docstrings)*.
 
