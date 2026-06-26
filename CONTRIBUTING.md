@@ -106,9 +106,11 @@ vulnerabilities in Charmed HPC.
 ## Enhancement Proposals
 
 Charmed HPC's maintainers may already know what they want to add to Charmed HPC, but they are always open to new ideas
-and potential improvements. GitHub Discussions is a good place for discussing open-ended questions that
-pertain to the entire Charmed HPC project, but more focused enhancement proposal discussions can start within
-an issue tracker.
+and potential improvements. The [Ubuntu High-Performance Computing Matrix chat](https://matrix.to/#/#hpc:ubuntu.com)
+and the [High-Performance Computing category on the Ubuntu Discourse](https://discourse.ubuntu.com/c/project/hpc/151)
+are good places for discussing open-ended questions that pertain to the entire
+Charmed HPC project, but more focused enhancement proposal discussions can start
+within an issue tracker.
 
 Please note that not all proposals may be incorporated into Charmed HPC. Also, please
 know that spamming the maintainers to incorporate something you want will not improve the
