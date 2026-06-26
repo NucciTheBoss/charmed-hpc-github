@@ -41,7 +41,7 @@ jobs:
     name: Publish package
     needs: build
     runs-on: ubuntu-24.04
-    environment: release
+    environment: pypi
     permissions:
       id-token: write
     steps:
