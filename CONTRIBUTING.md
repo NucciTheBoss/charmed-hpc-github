@@ -125,7 +125,7 @@ guidelines; please read the corresponding CONTRIBUTING.md within the repository 
 ### Documentation
 
 * Any code contribution should be accompanied by a corresponding documentation contribution to [Charmed HPC's documentation](https://github.com/canonical/charmed-hpc-docs), following the [documentation CONTRIBUTING.md guide](https://github.com/canonical/charmed-hpc-docs/blob/main/CONTRIBUTING.md).
-  * If the code contribution does not require a documentation addition or change, please provide justification in the Pull Request.
+  * If the code contribution does not require a documentation addition or change, please provide justification in the Pull Request description.
 
 ### Conventional Commits
 
