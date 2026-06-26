@@ -105,7 +105,7 @@ vulnerabilities in Charmed HPC.
 
 ## Enhancement Proposals
 
-Charmed HPC's maintainers may already know what they want to add to Charmed HPC, but they are always open to new ideas
+Charmed HPC project's maintainers are always open to new ideas
 and potential improvements. The [Ubuntu High-Performance Computing Matrix chat](https://matrix.to/#/#hpc:ubuntu.com)
 and the [High-Performance Computing category on the Ubuntu Discourse](https://discourse.ubuntu.com/c/project/hpc/151)
 are good places for discussing open-ended questions that pertain to the entire
