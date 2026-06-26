@@ -13,6 +13,9 @@ Have any questions? Feel free to ask them in the [Ubuntu High-Performance Comput
 Matrix chat](https://matrix.to/#/#hpc:ubuntu.com) or in the [High-Performance Computing
 category on the Ubuntu Discourse](https://discourse.ubuntu.com/c/project/hpc/151).
 
+The full list of Charmed HPC repositories can be found by filtering the Canonical GitHub
+organization by the [`charmed-hpc` topic](https://github.com/search?q=topic%3Acharmed-hpc%20org%3Acanonical&amp;type=repositories)
+
 ### Table of Contents
 
 * [Using the issue tracker](#using-the-issue-tracker)
