@@ -110,7 +110,7 @@ and potential improvements. The [Ubuntu High-Performance Computing Matrix chat](
 and the [High-Performance Computing category on the Ubuntu Discourse](https://discourse.ubuntu.com/c/project/hpc/151)
 are good places for discussing open-ended questions that pertain to the entire
 Charmed HPC project, but more focused enhancement proposal discussions can start
-within an issue tracker.
+in an issue tracker.
 
 Please note that not all proposals may be incorporated into Charmed HPC. Also, please
 know that spamming the maintainers to incorporate something you want will not improve the
