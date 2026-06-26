@@ -4,7 +4,7 @@ Do you want to contribute to Charmed HPC? You've come to
 the right place then! __Here is how you can get involved.__
 
 Please take a moment to review this document so that the contribution
-process will be easy and effective for everyone. Following these guidelines helps you communicate
+process will be easy and effective for everyone. Following these guidelines indicates
 that you respect the maintainers and contributors developing Charmed HPC. In return, they will
 reciprocate that respect while addressing your issue or assessing your submitted changes
 and/or features.
