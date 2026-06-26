@@ -158,8 +158,7 @@ To have your Python code contributions accepted into Charmed HPC, you must:
 
 If you are contributing to one of the charmed operators used in Charmed HPC, you must also:
 
-* Follow to the operator development best practices outlined in the [How to write and structure charm code](https://canonical.com/juju/docs/ops/latest/howto/write-and-structure-charm-code/) documentation.
-
+* Follow the operator development best practices outlined in the [How to write and structure charm code](https://canonical.com/juju/docs/ops/latest/howto/write-and-structure-charm-code/) documentation.
 
 ### Useful Resources
 
