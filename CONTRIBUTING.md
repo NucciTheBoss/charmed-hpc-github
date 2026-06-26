@@ -245,7 +245,8 @@ Adhering to the following process is the best way to get your contribution accep
 
 ## Discussions
 
-The Ubuntu Discourse is a great place to connect with other Charmed HPC users to
-discuss potential enhancements, ask questions, and resolve issues. Charmed HPC users
-should remain respectful of each other. The Ubuntu Discourse moderation team reserve the
-right to suspend discussions and/or delete posts that do not follow this rule.
+The [High-Performance Computing category on the Ubuntu Discourse](https://discourse.ubuntu.com/c/project/hpc/151)
+is a great place to connect with other Charmed HPC users to discuss potential enhancements,
+ask questions, and resolve issues. Commentators must remain respectful of each other.
+The Ubuntu Discourse moderation team reserve the right to suspend discussions and/or delete
+posts that do not follow this rule.
