@@ -118,9 +118,9 @@ likelihood of being implemented; it may result in you receiving a temporary ban.
 
 ## Guidelines and Resources
 
-The following guidelines should be followed if you are writing code to be merged into any of the repositories within the
-Charmed HPC GitHub organization. Some repositories will have additional guidelines; please read the corresponding
-CONTRIBUTING.md within the repository of interest.
+The following guidelines should be followed if you are writing code to be merged
+into any of the Charmed HPC project repositories. Some repositories will have additional
+guidelines; please read the corresponding CONTRIBUTING.md within the repository of interest.
 
 ### Documentation
 
