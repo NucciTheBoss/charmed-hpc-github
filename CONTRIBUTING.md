@@ -32,7 +32,7 @@ The issue trackers are the preferred way for tracking [bug reports](#bug-reports
 and [submitted pull requests](#pull-requests), but please follow these guidelines:
 
 * Please __do not__ use the issue tracker for personal issues and/or support requests.
-The High-Performance Computing category on the Ubuntu Discourse is a better place to get help for personal
+The High-Performance Computing category on the Ubuntu Discourse is a better place to get help with personal
 support requests. See the [Discussions section](#discussions) below for further information.
 
 * Please __do not__ derail or troll issues. Keep the discussion on track and have respect for the other
