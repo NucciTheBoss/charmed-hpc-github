@@ -95,7 +95,7 @@ Some common questions you should answer in your report include:
 * Which commands/actions/configuration options/etc produce the issue?
 * What was your expected outcome?
 
-Please try to be as detailed as possible in your report. Detailed, comprehensive bug reports help the maintainers
+Please be as detailed as possible in your report. Detailed, comprehensive bug reports help the maintainers
 quickly fix issues.
 
 ## Security Reports
